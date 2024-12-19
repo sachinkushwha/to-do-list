@@ -1,0 +1,22 @@
+h1{
+    font-weight: 700;
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+.row{
+    margin: 10px 7px;
+}
+.todo-container{
+    margin: 15px;
+    border: 2px solid black;
+    height: fit-content;
+    width: fit-content;
+    background-color: azure;
+}
+.sbtn{
+    width: 65px;
+}
+.container{
+    text-align: left;
+    width: 102%;
+}
