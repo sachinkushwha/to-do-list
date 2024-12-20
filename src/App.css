@@ -20,3 +20,22 @@ h1{
     text-align: left;
     width: 102%;
 }
+
+@media (max-width: 522px){
+    .container{
+        text-align: left;
+        width: 83%;
+    }
+    .row{
+        margin: 10px -19px;
+        width: 247px;
+    }
+    .myinput{
+         width: 116px; 
+        position: relative; 
+         right: 40px; 
+    }
+    .sbtnad{
+        width: 54px;
+    }
+}
